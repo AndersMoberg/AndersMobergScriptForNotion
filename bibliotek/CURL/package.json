@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "main": "index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {
+    "jsdom": "^16.2.2"
+  }
+}

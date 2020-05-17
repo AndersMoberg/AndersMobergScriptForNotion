@@ -1,0 +1,13 @@
+{
+  "name": "AndersMobergsNotionConverter",
+  "dependencies": {
+    "csv": "../bibliotek/CSV",
+    "curl": "../bibliotek/CURL",
+    "yargs": "^15.3.1"
+  },
+  "main": "./index.js",
+  "bin": {
+    "amnc": "./index.js"
+  },
+  "private": true
+}
